@@ -1,2 +1,2 @@
-# Challenge-ONE---Java---Back-end---HotelAluraOne
+# Challenge-ONE-Java-Back-end-HotelAluraOne
 Projeto Hotel Alura One
